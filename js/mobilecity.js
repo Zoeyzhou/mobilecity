@@ -25,7 +25,7 @@ dist:默认地区（县）
             return;
         };
         settings = $.extend({
-            url:'/js/city.min.js',
+            url:'mobilecity/js/city.min.js',
             prov: null,
             city: null,
             dist: null
